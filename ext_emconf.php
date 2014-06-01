@@ -24,7 +24,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'version' => '1.0.0',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '6.1',
+			'typo3' => '4.7.0-6.2.99',
 			'wt_spamshield' => '1.2.0-1.2.99',
 			'formhandler' => '1.7.0-2.0.99'
 		),
