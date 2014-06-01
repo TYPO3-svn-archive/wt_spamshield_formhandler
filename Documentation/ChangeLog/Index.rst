@@ -13,3 +13,5 @@ ChangeLog
 
 **1.0.0: May 31, 2014**
   First public release.
+
+**1.0.1: **
