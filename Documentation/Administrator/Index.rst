@@ -52,10 +52,10 @@ All the constants are configurable using constant editor, under `WT_SPAMSHIELD M
 **plugin.wt_spamshield.formhandler**
   If *false*, wt_spamshield protection is disabled for all forms (default: *true*)
 
-**plugin.wt_spamshield.formhandler.validators.formhandler.enable**
+**plugin.wt_spamshield.validators.formhandler.enable**
   Comma separated list of enabled validators. Can be: blacklistCheck, httpCheck, uniqueCheck, honeypotCheck, akismetCheck. By default, all validators are enabled.
 
-**plugin.wt_spamshield.validators.formhandler.how_many_validators_can_fail**
+**plugin.wt_spamshield.formhandler.how_many_validators_can_fail**
   Number of tests that can fail before reporting the form as spam. For example, if it is 1, there must be at least 2 checks that fail to report the form as spam. Default: 0.
 
 **plugin.wt_spamshield.honeypot.inputname.formhandler**
