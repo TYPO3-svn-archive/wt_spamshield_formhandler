@@ -49,7 +49,16 @@ Spamshield for Formhandler
 	a GNU/GPL CMS/Framework available from `www.typo3.org <http://www.typo3.org/>`_.
 
 
-	**Table of Contents**
+Deprecation notice
+------------------
+
+.. warning::
+
+	This extension is now part of wt_spamshield extension. Therefore, it is marked as
+	deprecated, and is no longer maintained.
+
+
+**Table of Contents**
 
 .. toctree::
 	:maxdepth: 5
